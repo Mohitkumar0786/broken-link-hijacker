@@ -4,7 +4,7 @@
 
 # Broken Link Hijacker
 
-Simple python script to find social broken links. This script will find all the FACEBOOK, TWITTER and INSTAGRAM broken links and help you to hijack them for the purpose of PoC. This script will store all the links in `sociallinks.txt`.
+Simple python script to find social broken links. This script will find all the FACEBOOK, TWITTER, GITHUB and INSTAGRAM broken links and help you to hijack them for the purpose of PoC. This script will store all the links in `sociallinks.txt`.
 
 # Installation
 
